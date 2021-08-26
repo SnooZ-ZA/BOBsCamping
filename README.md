@@ -1,27 +1,18 @@
-# BOBsHunt
- ESX Hunting
-
-# Dependancy:
-rprogress
-
-https://forum.cfx.re/t/release-standalone-rprogress-customisable-radial-progress-bars/1630655
+# BOBsCamping
+ ESX Camping
 
 # Install Instructions:
 Extract files
 
-Add rprogress folder to server resources
-
-Add BOBsHunt folder to server resources
+Add BOBsCamping folder to server resources
 
 Import items.sql to database
 
 Add to server.cfg
 
-ensure rprogress
-
-ensure BOBsHunt
+ensure BOBsCamping
 
 # Use:
-Hunt and skin Boar, Mountain Lion, Deer, Coyote and Rabbit for pelts to sell.
+Usable items in inventory.
 
-Knife needed to skin animal.
+Add items to shops or players can pick up items across map.
